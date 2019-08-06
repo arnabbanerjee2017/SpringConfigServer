@@ -1,8 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: https://localhost:8888/
-  application:
-    name: spring-config-server
-server:
-  port: 8080
